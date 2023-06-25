@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cibertec</groupId>
-	<artifactId>SW_Servicios_Rest_MySql_Matricula</artifactId>
+	<artifactId>DAWII_Servicio_Rest_MySql_Banco</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SW_Servicios_Rest_MySql_Matricula</name>
+	<name>DAWII_Servicio_Rest_MySql_Banco</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
